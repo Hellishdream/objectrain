@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>IMG_20241001_114956.jpg</filename>
+	<path>C:\Varun_work\newpy\Dataset -20241001T062708Z-001\Dataset\IMG_20241001_114956.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logitechMouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1343</xmin>
+			<ymin>2115</ymin>
+			<xmax>1886</xmax>
+			<ymax>2444</ymax>
+		</bndbox>
+	</object>
+</annotation>
