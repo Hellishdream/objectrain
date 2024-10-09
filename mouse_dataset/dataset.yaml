@@ -1,0 +1,7 @@
+
+path: C:\Varun_work\sort_py\mouse_dataset
+train: images/train
+val: images/val
+
+nc: 1
+names: ['mouse']
