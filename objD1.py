@@ -3,7 +3,8 @@ import numpy as np
 import torch
 
 # Load your custom YOLO model
-model = torch.hub.load('ultralytics/yolov5', 'custom', path='/mouse_dataset/dataset.yaml')
+#model = torch.hub.load('ultralytics/yolov5', 'custom', path='/mouse_dataset/dataset.yaml')
+model = torch.hub.load('ultralytics/yolov5', 'custom', path='/mouse_dataset/weights/best.pt')
 
 def detect_mouse(image):
     # Run inference
